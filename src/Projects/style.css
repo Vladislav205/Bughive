@@ -1,18 +1,10 @@
-.main__container{
-    
-    
-}
-.class__home
-{
-    margin-top: 51px;
-    margin-left: 250px;
-    width: 100%;
-    min-height: 100%;
-   
-    display: flex;
+
+body {
     background-color: #040214;
-    
-    
-    /* position: fixed;
-    left:0; */
+}
+.class__home {
+    margin-left: 290px;
+    padding-top: 50px;
+    height: 100%;
+
 }
